@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Keerti+Chandan;Full-Stack+Developer+%7C+Spring+Boot+%26+React;Backend+Engineer+%7C+DSA+Enthusiast;Hackathon+Winner+%7C+Cloud+Certified" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+T+K+Chandan;Full-Stack+Developer+%7C+Spring+Boot+%26+React;Backend+Engineer+%7C+DSA+Enthusiast;Hackathon+Winner+%7C+Cloud+Certified" />
 </p>
 
 <h2 align="center">Full-Stack Developer • Backend Engineer • Problem Solver</h2>
