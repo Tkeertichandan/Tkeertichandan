@@ -29,7 +29,7 @@ I enjoy solving complex problems using **Data Structures & Algorithms**, designi
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-`Java` `Python`
+`Java` `Python`,`C`
 
 ### ⚙️ Backend
 `Spring Boot` `Hibernate` `REST APIs`
