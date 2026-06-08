@@ -120,7 +120,6 @@ I enjoy solving complex problems using **Data Structures & Algorithms**, designi
 ## 📫 Contact
 
 - 📧 Email: **2300033901cseelge@gmail.com**
-- 📞 Phone: **+91 9392419700**
 - 🌐 Portfolio: https://tkchandan.vercel.app
 - 💻 GitHub: https://github.com/Tkeertichandan
 
