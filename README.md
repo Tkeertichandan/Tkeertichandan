@@ -32,7 +32,7 @@ I enjoy solving complex problems using **Data Structures & Algorithms**, designi
 `Java` `Python` `C`
 
 ### ⚙️ Backend
-`Spring Boot` `Hibernate` `REST APIs`
+`Spring Boot`  `REST APIs`
 
 ### 🎨 Frontend
 `React.js` `JavaScript` `HTML`
